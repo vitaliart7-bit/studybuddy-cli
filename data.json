@@ -3,12 +3,14 @@
     {
       "id": 1,
       "front": "train",
-      "back": "train"
+      "back": "РїРѕРµР·Рґ",
+      "source": "translate"
     },
     {
       "id": 2,
-      "front": "train",
-      "back": "train"
+      "front": "house",
+      "back": "дом",
+      "source": "translate"
     }
   ],
   "diary": [],
