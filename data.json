@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "front": "train",
+      "back": "train"
+    },
+    {
+      "id": 2,
+      "front": "train",
+      "back": "train"
+    }
+  ],
+  "diary": [],
+  "meta": {
+    "created_at": "2026-01-05",
+    "version": "1.0",
+    "last_id": 2
+  }
+}
